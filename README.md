@@ -153,7 +153,7 @@ This model can help financial institutions:
 - Deployment as a web application
 
 ## 📝 License
-The dataset is available on Kaggle with unknown license. Please check Kaggle for specific usage terms.
+This project is open source and available under the MIT License.
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
