@@ -89,7 +89,7 @@ pip install pandas matplotlib seaborn scikit-learn kaggle
 ## 🔧 Kaggle API Setup
 1. Create Kaggle account and get API credentials
 
-2. Place kaggle.json in appropriate directory
+2. Place ``` kaggle.json ```in appropriate directory
 
 3. Set environment variable for Kaggle config
 ## 📁 Directory Structure
